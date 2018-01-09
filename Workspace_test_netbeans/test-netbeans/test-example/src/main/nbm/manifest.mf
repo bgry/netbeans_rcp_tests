@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: fr/test/netbeans/test/example/Bundle.properties
+OpenIDE-Module-Install: fr/test/netbeans/test/example/Installer.class
+

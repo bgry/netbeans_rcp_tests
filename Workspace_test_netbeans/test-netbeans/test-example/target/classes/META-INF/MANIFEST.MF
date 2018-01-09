@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: fr/test/netbeans/test/example/Bundle
+ .properties
+OpenIDE-Module-Install: fr/test/netbeans/test/example/Installer.class
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0-20180109
+OpenIDE-Module-Build-Version: 201801091046
+OpenIDE-Module: fr.test.netbeans.test.example
+OpenIDE-Module-Public-Packages: javax.xml.**, org.w3c.**, org.xml.**
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: fr.test.netbeans
+OpenIDE-Module-Name: test-example
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/fr.test.netbeans.test-example/commons-configuration/
+ commons-configuration.jar ext/fr.test.netbeans.test-example/commons-l
+ ang/commons-lang.jar ext/fr.test.netbeans.test-example/commons-loggin
+ g/commons-logging.jar ext/fr.test.netbeans.test-example/commons-beanu
+ tils/commons-beanutils.jar ext/fr.test.netbeans.test-example/xml-apis
+ /xml-apis.jar ext/fr.test.netbeans.test-example/javax-activation/acti
+ vation.jar ext/fr.test.netbeans.test-example/javax-mail/mail.jar ext/
+ fr.test.netbeans.test-example/org-apache-geronimo-specs/geronimo-jms_
+ 1.1_spec.jar ext/fr.test.netbeans.test-example/org-apache-geronimo-sp
+ ecs/geronimo-jta_1.0.1B_spec.jar ext/fr.test.netbeans.test-example/co
+ mmons-io/commons-io.jar ext/fr.test.netbeans.test-example/org-springf
+ ramework/spring-asm.jar ext/fr.test.netbeans.test-example/org-javassi
+ st/javassist.jar ext/fr.test.netbeans.test-example/com-google-code-fi
+ ndbugs/annotations.jar ext/fr.test.netbeans.test-example/org-ow2-asm/
+ asm-all.jar ext/fr.test.netbeans.test-example/log4j/log4j.jar
+Maven-Class-Path: commons-configuration:commons-configuration:1.9 comm
+ ons-lang:commons-lang:2.6 commons-logging:commons-logging:1.1.1 commo
+ ns-beanutils:commons-beanutils:1.8.3 xml-apis:xml-apis:1.3.04 javax.a
+ ctivation:activation:1.1 javax.mail:mail:1.4.4 org.apache.geronimo.sp
+ ecs:geronimo-jms_1.1_spec:1.1.1 org.apache.geronimo.specs:geronimo-jt
+ a_1.0.1B_spec:1.0.1 commons-io:commons-io:1.4 org.springframework:spr
+ ing-asm:3.1.4.RELEASE org.javassist:javassist:3.19.0-GA com.google.co
+ de.findbugs:annotations:2.0.1 org.ow2.asm:asm-all:5.0.1 log4j:log4j:1
+ .2.17
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.openide.windows = 201510222201, org.openide.util > 
+ 9.5.1, org.openide.util.lookup > 8.32.1, org.openide.awt > 7.65.1, or
+ g.netbeans.modules.settings/1 > 1.48.1, org.openide.explorer > 6.61.1
+ , org.openide.filesystems > 9.8.1, org.openide.filesystems.nb > 9.7.1
+ , org.openide.loaders > 7.63.1, org.openide.nodes > 7.42.1, org.openi
+ de.text > 6.66.1, org.netbeans.core.multiview/1 > 1.43.1, org.openide
+ .dialogs > 7.41.1, org.openide.modules > 7.47.1, org.openide.util.ui 
+ > 9.4.1, org.openide.actions > 6.38.1, org.netbeans.modules.image/1 >
+  1.47.1, org.netbeans.libs.freemarker/1 > 2.33.1.238, org.netbeans.mo
+ dules.projectuiapi/1 > 1.86.1.8, org.netbeans.modules.projectuiapi.ba
+ se/1 > 1.83.1.9, org.netbeans.modules.projectapi/1 > 1.65.1, org.netb
+ eans.spi.navigator/1 > 1.36.1, org.netbeans.swing.tabcontrol > 1.54.1
+ , org.netbeans.spi.quicksearch > 1.26.1, org.netbeans.api.progress/1 
+ > 1.46.1, org.netbeans.bootstrap/1 = 201510222201, org.netbeans.modul
+ es.projectapi.nb > 1.2.1
+

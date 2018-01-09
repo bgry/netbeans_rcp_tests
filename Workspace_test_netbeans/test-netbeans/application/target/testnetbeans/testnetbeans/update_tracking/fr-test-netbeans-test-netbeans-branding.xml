@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="fr.test.netbeans.test.netbeans.branding">
+    <module_version install_time="1515494829474" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="249652626" name="config/Modules/fr-test-netbeans-test-netbeans-branding.xml"/>
+        <file crc="3843228487" name="core/locale/core_testnetbeans.jar"/>
+        <file crc="229867721" name="modules/fr-test-netbeans-test-netbeans-branding.jar"/>
+        <file crc="2634704780" name="modules/locale/org-netbeans-core-windows_testnetbeans.jar"/>
+        <file crc="597525185" name="modules/locale/org-netbeans-core_testnetbeans.jar"/>
+        <file crc="1619409674" name="update_tracking/fr-test-netbeans-test-netbeans-branding.xml"/>
+    </module_version>
+</module>

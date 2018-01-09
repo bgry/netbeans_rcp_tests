@@ -1,0 +1,155 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, January 9, 2018 11:48:26 AM CET
+>System Info: 
+  Product Version         = test-netbeans 201510222201
+  Operating System        = Windows 7 version 6.1 running on amd64
+  Java; VM; Vendor        = 1.8.0_25; Java HotSpot(TM) 64-Bit Server VM 25.25-b02; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_25-b18
+  Java Home               = D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre
+  System Locale; Encoding = fr_FR (testnetbeans); Cp1252
+  Home Directory          = D:\Utilisateurs\BGRY
+  Current Directory       = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans
+  User Directory          = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\userdir
+  Cache Directory         = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\userdir\var\cache
+  Installation            = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\bin
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\etc
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\extra
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\ide
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\java
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\testnetbeans
+                            D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform
+  Boot & Ext. Classpath   = D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\resources.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\rt.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\sunrsasign.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\jsse.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\jce.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\charsets.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\jfr.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\classes;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\access-bridge-64.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\cldrdata.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\dnsns.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\jaccess.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\jfxrt.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\localedata.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\nashorn.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\sunec.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\sunjce_provider.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\sunmscapi.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\sunpkcs11.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\jre\lib\ext\zipfs.jar
+  Application Classpath   = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\boot.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\org-openide-modules.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\org-openide-util-lookup.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\org-openide-util-ui.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\org-openide-util.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\boot_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\boot_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\boot_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\boot_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-modules_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-modules_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-modules_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-modules_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-lookup_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-lookup_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-ui_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-ui_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-ui_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util-ui_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\lib\locale\org-openide-util_zh_CN.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\lib\dt.jar;D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk\lib\tools.jar
+  Startup Classpath       = D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\asm-all-5.0.1.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\core-base.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\core.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\org-netbeans-libs-asm.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\org-openide-filesystems-compat8.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\org-openide-filesystems.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core-base_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core-base_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core-base_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core-base_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\core_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-netbeans-libs-asm_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-netbeans-libs-asm_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-netbeans-libs-asm_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-netbeans-libs-asm_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems-compat8_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems-compat8_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems-compat8_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems-compat8_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems_ja.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems_pt_BR.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems_ru.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform\core\locale\org-openide-filesystems_zh_CN.jar;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\testnetbeans\core\locale\core_testnetbeans.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\..\..\..\branding\target\classes
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\..\..\..\test-example\target\classes
+WARNING [org.netbeans.core.startup.InstalledFileLocatorImpl]: no such module D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\extra\update_tracking\test-example.xml at fr.test.netbeans.test.example.Installer.restored(Installer.java:27)
+log4j:WARN No appenders could be found for logger (fr.test.netbeans.test.example.Installer).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.32.1 201510222201]
+	org.openide.util [9.5.1 201510222201]
+	org.openide.util.ui [9.4.1 201510222201]
+	org.openide.modules [7.47.1 201510222201]
+	org.netbeans.api.annotations.common/1 [1.26.1 201510222201]
+	org.openide.filesystems [9.8.1 201510222201]
+	org.openide.awt [7.65.1 201510222201]
+	org.netbeans.api.progress/1 [1.46.1 201510222201]
+	org.netbeans.api.progress.nb [1.46.1 201510222201]
+	org.openide.dialogs [7.41.1 201510222201]
+	org.openide.nodes [7.42.1 201510222201]
+	org.openide.windows [6.74.1 201510222201]
+	org.netbeans.modules.editor.mimelookup/1 [1.39.1 201510222201]
+	org.openide.text [6.66.1 201510222201]
+	org.netbeans.swing.tabcontrol [1.54.1 201510222201]
+	org.netbeans.swing.outline [1.32.1 201510222201]
+	org.openide.explorer [6.61.1 201510222201]
+	org.openide.actions [6.38.1 201510222201]
+	org.netbeans.modules.queries/1 [1.42.1 201510222201]
+	org.netbeans.api.templates [1.6.1 201510222201]
+	org.openide.filesystems.nb [9.7.1 201510222201]
+	org.openide.loaders [7.63.1 201510222201]
+	org.netbeans.api.intent [1.1.1 201510222201]
+	org.netbeans.api.io [1.2.1 201510222201]
+	org.openide.io [1.48.1 201510222201]
+	org.openide.filesystems.compat8 [9.7.1 201510222201]
+	org.netbeans.swing.plaf [1.40.1 201510222201]
+	org.netbeans.spi.quicksearch [1.26.1 201510222201]
+	org.netbeans.spi.navigator/1 [1.36.1 201510222201]
+	org.netbeans.libs.asm [5.2.1 201510222201]
+	org.netbeans.bootstrap/1 [2.74.1 201510222201]
+	org.netbeans.core.startup.base [1.61.1.1 1 201510222201]
+	org.netbeans.core.startup/1 [1.61.1.1 201510222201]
+	org.netbeans.modules.sendopts/2 [2.34.1 201510222201]
+	org.netbeans.modules.utilities/1 [1.60.1 201510222201]
+	org.netbeans.modules.templates/1 [1.6.1 201510222201]
+	org.netbeans.modules.settings/1 [1.48.1 201510222201]
+	org.netbeans.modules.sampler [1.13.1 201510222201]
+	org.netbeans.modules.projectapi/1 [1.65.1 201510222201]
+	org.netbeans.modules.projectuiapi.base/1 [1.83.1.9 9 201510222201]
+	org.netbeans.modules.projectuiapi/1 [1.86.1.8 8 201510222201]
+	org.netbeans.modules.projectapi.nb [1.2.1 201510222201]
+	org.netbeans.modules.progress.ui [1.32.1 201510222201]
+	org.netbeans.modules.print [7.25.1 201510222201]
+	org.netbeans.modules.keyring [1.23.1 201510222201]
+	org.netbeans.core/2 [3.49.1 201510222201]
+	org.netbeans.modules.options.api/1 [1.44.1 201510222201]
+	org.netbeans.modules.options.keymap [1.36.1 201510222201]
+	org.netbeans.libs.jna/1 [1.41.1 201510222201]
+	org.netbeans.modules.masterfs/2 [2.54.1.2 2 201510222201]
+	org.netbeans.modules.masterfs.windows [1.15.1 201510222201]
+	org.netbeans.modules.masterfs.ui [2.2.1.2 201510222201]
+	org.netbeans.modules.masterfs.nio2 [1.14.1 201510222201]
+	org.netbeans.modules.keyring.fallback [1.7.1 201510222201]
+	org.netbeans.modules.keyring.impl [1.23.1 201510222201]
+	org.netbeans.modules.image/1 [1.47.1 201510222201]
+	org.netbeans.modules.favorites/1 [1.45.1 201510222201]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.31.1 201510222201]
+	org.netbeans.modules.autoupdate.services [1.51.1 201510222201]
+	org.netbeans.modules.autoupdate.cli [1.12.1 201510222201]
+	org.netbeans.core.windows/2 [2.80.1 201510222201]
+	org.netbeans.core.ui/1 [1.44.1 201510222201]
+	org.netbeans.libs.osgi [1.20.1 201510222201]
+	org.netbeans.libs.felix [2.14.1 201510222201]
+	org.netbeans.modules.autoupdate.ui [1.44.1 201510222201]
+	org.netbeans.modules.core.kit [1.29.1 201510222201]
+	org.netbeans.libs.jna.platform/1 [1.10.1 201510222201]
+	org.netbeans.libs.freemarker/1 [2.33.1.238 238 201510222201]
+	org.netbeans.core.output2/1 [1.40.1 201510222201]
+	org.netbeans.core.network [1.9.1 201510222201]
+	org.netbeans.core.netigso [1.30.1 201510222201]
+	org.netbeans.core.nativeaccess/1 [1.30.1 201510222201]
+	org.netbeans.core.multiview/1 [1.43.1 201510222201]
+	org.netbeans.core.multitabs/1 [1.11.1.1 1 201510222201]
+	org.netbeans.core.io.ui/1 [1.29.1 201510222201]
+	fr.test.netbeans.test.netbeans.branding [1.0.0 1.0.0-20180109 201801091044]
+	fr.test.netbeans.test.example [1.0.0 1.0.0-20180109 201801091046]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto - PAC (http://srv-partages/proxy/proxycy.pac)
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+WARNING [org.netbeans.core.startup.InstalledFileLocatorImpl]: module org.netbeans.core in D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform does not own modules/ext/nsProxyAutoConfig.js at org.netbeans.core.startup.layers.NbinstURLMapper.decodeURL(NbinstURLMapper.java:121)
+INFO [org.netbeans.core.network.proxy.ProxyAutoConfig]: findProxyForURL(http://netbeans.org) returns null.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: auto
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - pac url: http://srv-partages/proxy/proxycy.pac
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http host: 
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http port: 0
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'projectTabLogical_tc'. Reason: Top component projectTabLogical_tc could not be located or loaded from Components folder.
+SEVERE [fr.test.netbeans.test.example.GlobalActionContextProxy]: propertyChange: cannot find the Projects logical window (projectTabLogical_tc)
+SEVERE [null]: Last record repeated again.
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at fr.test.netbeans.test.example.GlobalActionContextProxy.getUserDirComponentsSettingPath(GlobalActionContextProxy.java:246)
+SEVERE [fr.test.netbeans.test.example.GlobalActionContextProxy]: propertyChange: cannot find the Projects logical window (projectTabLogical_tc)
+SEVERE [null]: Last record repeated again.
+Diagnostic information
+Input arguments:
+	-Xms24m
+	-Xmx64m
+	-XX:MaxPermSize=384m
+	-Dnetbeans.logger.console=true
+	-ea
+	-Xdebug
+	-Xrunjdwp:transport=dt_socket,suspend=n,server=n,address=55924
+	-Dnetbeans.patches.fr.test.netbeans.test.example=../../../test-example/target/classes
+	-Dnetbeans.patches.fr.test.netbeans.test.netbeans.branding=../../../branding/target/classes
+	-Dnetbeans.user.dir=D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application
+	-Djdk.home=D:\CYDEV\Applications\NetBeans-8.0.2\Projets\PortableApps\NetBeansPortable\App\jdk
+	-splash:D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\userdir\var\cache\splash.png
+	-Dnetbeans.home=D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform
+	-Dnetbeans.user=D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\userdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\userdir\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\bin;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\etc;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\extra;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\ide;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\java;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\platform;D:\CYDEV\Workspaces\Workspace_test_netbeans\test-netbeans\application\target\testnetbeans\testnetbeans
+	exit
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 24,0MB maximum 57,0MB
+Non heap memory usage: initial 2,4MB maximum -1b
+Garbage collector: PS Scavenge (Collections=23 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=5760 total loaded=5762 unloaded 2
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16 837 595 136
+INFO [null]: Total physical memory 16 837 595 136

@@ -1,0 +1,14 @@
+platform=1515494904820
+cluster.bin=1515494904819
+cluster.etc=1515494904819
+cluster.extra=1515494904820
+cluster.ide=1515494904820
+cluster.java=1515494904820
+cluster.platform=1515494904820
+cluster.testnetbeans=1515494904820
+user=1515494904820
+crc=7
+locale=fr_FR
+branding=testnetbeans
+java.version=1.8.0_25
+java.vm.version=25.25-b02

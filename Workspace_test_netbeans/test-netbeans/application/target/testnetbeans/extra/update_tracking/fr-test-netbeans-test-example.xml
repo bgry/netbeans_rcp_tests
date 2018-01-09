@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="fr.test.netbeans.test.example">
+    <module_version install_time="1515494824189" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="2105069310" name="conf/config.xml"/>
+        <file crc="688104065" name="conf/editorConfig.properties"/>
+        <file crc="2673419205" name="config/Modules/fr-test-netbeans-test-example.xml"/>
+        <file crc="2264488243" name="modules/ext/fr.test.netbeans.test-example/com-google-code-findbugs/annotations.jar"/>
+        <file crc="1277217186" name="modules/ext/fr.test.netbeans.test-example/commons-beanutils/commons-beanutils.jar"/>
+        <file crc="1828595372" name="modules/ext/fr.test.netbeans.test-example/commons-configuration/commons-configuration.jar"/>
+        <file crc="2487559454" name="modules/ext/fr.test.netbeans.test-example/commons-io/commons-io.jar"/>
+        <file crc="1049092013" name="modules/ext/fr.test.netbeans.test-example/commons-lang/commons-lang.jar"/>
+        <file crc="3077296198" name="modules/ext/fr.test.netbeans.test-example/commons-logging/commons-logging.jar"/>
+        <file crc="984909869" name="modules/ext/fr.test.netbeans.test-example/javax-activation/activation.jar"/>
+        <file crc="1553864287" name="modules/ext/fr.test.netbeans.test-example/javax-mail/mail.jar"/>
+        <file crc="648025248" name="modules/ext/fr.test.netbeans.test-example/log4j/log4j.jar"/>
+        <file crc="2800424615" name="modules/ext/fr.test.netbeans.test-example/org-apache-geronimo-specs/geronimo-jms_1.1_spec.jar"/>
+        <file crc="4164929470" name="modules/ext/fr.test.netbeans.test-example/org-apache-geronimo-specs/geronimo-jta_1.0.1B_spec.jar"/>
+        <file crc="3545554154" name="modules/ext/fr.test.netbeans.test-example/org-javassist/javassist.jar"/>
+        <file crc="2977601252" name="modules/ext/fr.test.netbeans.test-example/org-ow2-asm/asm-all.jar"/>
+        <file crc="3951406051" name="modules/ext/fr.test.netbeans.test-example/org-springframework/spring-asm.jar"/>
+        <file crc="2669779638" name="modules/ext/fr.test.netbeans.test-example/xml-apis/xml-apis.jar"/>
+        <file crc="2822787408" name="modules/fr-test-netbeans-test-example.jar"/>
+    </module_version>
+</module>

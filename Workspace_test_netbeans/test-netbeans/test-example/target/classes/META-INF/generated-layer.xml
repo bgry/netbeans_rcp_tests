@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="fr-test-netbeans-test-example-EditorShapeTopComponent.instance">
+                <!--fr.test.netbeans.test.example.EditorShapeTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="fr.test.netbeans.test.example.EditorShapeTopComponent"/>
+                <attr name="preferredID" stringvalue="EditorShapeTopComponent"/>
+                <attr
+                    bundlevalue="fr.test.netbeans.test.example.Bundle#CTL_EditorShapeAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
